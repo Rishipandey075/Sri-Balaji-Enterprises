@@ -13,7 +13,7 @@ body {
 }
 
 .btn-bg-img {
-    background-image: url(./canteen.jpg);
+    background-image: url(/canteen.jpg);
     position: relative;
     background-position: center;
     background-size: cover;
@@ -24,7 +24,7 @@ body {
 
 @media only screen and (max-width: 429px) {
     .btn-bg-img {
-        background-image: url(./canteen.jpg);
+        background-image: url(/canteen.jpg);
         position: relative;
         background-position: center;
         background-size: cover;
@@ -45,7 +45,7 @@ body {
 
 @media only screen and (min-width: 430px) and (max-width: 768px) {
     .btn-bg-img {
-        background-image: url(./canteen.jpg);
+        background-image: url(/canteen.jpg);
         position: relative;
         background-position: center;
         background-size: cover;
@@ -65,7 +65,7 @@ body {
 
 @media only screen and (min-width: 769px) {
     .btn-bg-img {
-        background-image: url(./canteen.jpg);
+        background-image: url(/canteen.jpg);
         position: relative;
         background-position: center;
         background-size: cover;
